@@ -6,6 +6,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 ## 📂 Repository Structure
 
 - Each file/folder is named after the **LeetCode problem number** (e.g., `121`).
+- Use the “Go to File” feature on GitHub to quickly find a specific solution by problem number.
 - Each solution includes:
   - The **code** in C++.
   - Clear **comments and explanations** to help understand the approach.
