@@ -35,6 +35,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 | Problem Number | Difficulty | Problem Type    | Time Complexity     | Link to Solution                 |
 |----------------|------------|-----------------|---------------------|---------------------------------|
+| 4              | Hard       | Algorithm (C++) | O(n + m)            | [4.cpp](./4.cpp)               |
 | 11             | Medium     | Algorithm (C++) | O(n)                | [11.cpp](./11.cpp)               |
 | 26             | Easy       | Algorithm (C++) | O(n)                | [26.cpp](./26.cpp)               |
 | 27             | Easy       | Algorithm (C++) | O(n)                | [27.cpp](./27.cpp)               |
