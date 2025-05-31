@@ -41,5 +41,6 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 27             | Easy       | Algorithm (C++) | O(n)                | [27.cpp](./27.cpp)               |
 | 121            | Easy       | Algorithm (C++) | O(n)                | [121.cpp](./121.cpp)             |
 | 178            | Medium     | SQL             | Depends on DB engine | [178.sql](./178.sql)             |
-| 181            | Easy    | SQL             | Depends on DB engine | [181.sql](./181.sql)             |
+| 181            | Easy       | SQL             | Depends on DB engine | [181.sql](./181.sql)             |
+| 238            | Medium     | Algorithm (C++) | O(n)                 | [238.sql](./238.sql)             |
 
