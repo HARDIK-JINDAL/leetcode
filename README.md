@@ -47,3 +47,10 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 181            | Easy       | SQL             | Depends on DB engine | [181.sql](./181.sql)             |
 | 238            | Medium     | Algorithm (C++) | O(n)                 | [238.cpp](./238.cpp)             |
 
+
+## 🧮 Total Problems Solved
+
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-11-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+
+
+
