@@ -33,7 +33,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 ## 🆕 Latest Solution
 
-**Problem [175. Combine two tables]**  
+**Problem 175**  
 🧠 Difficulty: Easy  
 🗓️ Posted: june 1, 2025  
 🔗 [View Solution](./175.sql)
@@ -54,11 +54,12 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 178            | Medium     | SQL             | Depends on DB engine | [178.sql](./178.sql)             |
 | 181            | Easy       | SQL             | Depends on DB engine | [181.sql](./181.sql)             |
 | 238            | Medium     | Algorithm (C++) | O(n)                 | [238.cpp](./238.cpp)             |
+| 704            | Easy       | Algorithm (C++) | O(log n)             | [704.cpp](./704.cpp)             |
 
 
 ## 🧮 Total Problems Solved
 
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-12-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-13-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 
