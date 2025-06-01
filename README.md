@@ -31,6 +31,13 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 *This repo is maintained by [HARDIK-JINDAL](https://github.com/HARDIK-JINDAL)* 
 
+## 🆕 Latest Solution
+
+**Problem [175. Combine two tables]**  
+🧠 Difficulty: Easy  
+🗓️ Posted: june 1, 2025  
+🔗 [View Solution](./175.sql)
+
 ## 📋 Index
 
 | Problem Number | Difficulty | Problem Type    | Time Complexity     | Link to Solution                 |
