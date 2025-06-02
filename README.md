@@ -33,33 +33,34 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 ## 🆕 Latest Solution
 
-**Problem 175**  
-🧠 Difficulty: Easy  
-🗓️ Posted: june 1, 2025  
-🔗 [View Solution](./175.sql)
+**Problem 852**  
+🧠 Difficulty: Medium  
+🗓️ Posted: june 2, 2025  
+🔗 [View Solution](./852.sql)
 
 ## 📋 Index
 
-| Problem Number | Difficulty | Problem Type    | Time Complexity     | Link to Solution                 |
-|----------------|------------|-----------------|---------------------|---------------------------------|
-| 1              | Easy       | Algorithm (C++) | O(n)                | [1.cpp](./1.cpp)               |
-| 4              | Hard       | Algorithm (C++) | O(n + m)            | [4.cpp](./4.cpp)                |
-| 11             | Medium     | Algorithm (C++) | O(n)                | [11.cpp](./11.cpp)               |
-| 26             | Easy       | Algorithm (C++) | O(n)                | [26.cpp](./26.cpp)               |
-| 27             | Easy       | Algorithm (C++) | O(n)                | [27.cpp](./27.cpp)               |
-| 33             | Medium     | Algorithm (C++) | O(log n)            | [33.cpp](./33.cpp)               |
-| 121            | Easy       | Algorithm (C++) | O(n)                | [121.cpp](./121.cpp)             |
-| 175            | Easy       | SQL             | Depends on DB engine | [175.sql](./175.sql)             |
-| 176            | Medium     | SQL             | Depends on DB engine | [176.sql](./176.sql)             |
-| 178            | Medium     | SQL             | Depends on DB engine | [178.sql](./178.sql)             |
-| 181            | Easy       | SQL             | Depends on DB engine | [181.sql](./181.sql)             |
-| 238            | Medium     | Algorithm (C++) | O(n)                 | [238.cpp](./238.cpp)             |
-| 704            | Easy       | Algorithm (C++) | O(log n)             | [704.cpp](./704.cpp)             |
+| Problem Number | Difficulty | Problem Type    | Time Complexity      | Link to Solution                |
+|----------------|------------|-----------------|----------------------|---------------------------------|
+| 1              | Easy       | Algorithm (C++) | O(n)                 | [1.cpp](./1.cpp)                |
+| 4              | Hard       | Algorithm (C++) | O(n + m)             | [4.cpp](./4.cpp)                |
+| 11             | Medium     | Algorithm (C++) | O(n)                 | [11.cpp](./11.cpp)              |
+| 26             | Easy       | Algorithm (C++) | O(n)                 | [26.cpp](./26.cpp)              |
+| 27             | Easy       | Algorithm (C++) | O(n)                 | [27.cpp](./27.cpp)              |
+| 33             | Medium     | Algorithm (C++) | O(log n)             | [33.cpp](./33.cpp)              |
+| 121            | Easy       | Algorithm (C++) | O(n)                 | [121.cpp](./121.cpp)            |
+| 175            | Easy       | SQL             | Depends on DB engine | [175.sql](./175.sql)            |
+| 176            | Medium     | SQL             | Depends on DB engine | [176.sql](./176.sql)            |
+| 178            | Medium     | SQL             | Depends on DB engine | [178.sql](./178.sql)            |
+| 181            | Easy       | SQL             | Depends on DB engine | [181.sql](./181.sql)            |
+| 238            | Medium     | Algorithm (C++) | O(n)                 | [238.cpp](./238.cpp)            |
+| 704            | Easy       | Algorithm (C++) | O(log n)             | [704.cpp](./704.cpp)            |
+| 852            | Medium     | Algorithm (C++) | O(log n)             | [852.cpp](./852.cpp)            |
 
 
 ## 🧮 Total Problems Solved
 
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-13-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-14-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 
