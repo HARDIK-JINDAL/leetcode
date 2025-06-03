@@ -16,6 +16,9 @@ Approach (Binary Search on Answer Range):
 5. If yes → we try a smaller mid (end = mid - 1).
    If no  → we try a larger mid (start = mid + 1).
 6. We keep track of the best (smallest) valid answer found.
+
+Time Complexity: O(n * log(sum))
+Space Complexity: O(1)
 */
 
 class Solution {
