@@ -33,10 +33,10 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 ## 🆕 Latest Solution
 
-**Problem 410**  
+**Problem 197**  
 🧠 Difficulty: Hard  
-🗓️ Posted: june 3, 2025  
-🔗 [View Solution](./410.sql)
+🗓️ Posted: june 5, 2025  
+🔗 [View Solution](./197.sql)
 
 ## 📋 Index
 
@@ -56,6 +56,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 182            | Easy       | SQL             | Depends on DB engine | [182.sql](./182.sql)            |
 | 183            | Easy       | SQL             | Depends on DB engine | [183.sql](./183.sql)            |
 | 196            | Easy       | SQL             | Depends on DB engine | [196.sql](./196.sql)            |
+| 197            | Easy       | SQL             | Depends on DB engine | [197.sql](./197.sql)            |
 | 238            | Medium     | Algorithm (C++) | O(n)                 | [238.cpp](./238.cpp)            |
 | 410            | Hard       | Algorithm (C++) | O(n log n)           | [410.cpp](./410.cpp)            |
 | 540            | Medium     | Algorithm (C++) | O(log n)             | [540.cpp](./540.cpp)            |
@@ -65,7 +66,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 ## 🧮 Total Problems Solved
 
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-19-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-20-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 
