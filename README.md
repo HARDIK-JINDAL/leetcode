@@ -63,12 +63,13 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 511            | Easy       | SQL             | Depends on DB engine | [511.sql](./511.sql)            |
 | 540            | Medium     | Algorithm (C++) | O(log n)             | [540.cpp](./540.cpp)            |
 | 704            | Easy       | Algorithm (C++) | O(log n)             | [704.cpp](./704.cpp)            |
+| 724            | Easy       | Algorithm (C++) | O(n^2)               | [724.cpp](./724.cpp)            |
 | 852            | Medium     | Algorithm (C++) | O(log n)             | [852.cpp](./852.cpp)            |
 
 
 ## 🧮 Total Problems Solved
 
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-22-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-23-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 
