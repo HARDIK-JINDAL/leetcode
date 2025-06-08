@@ -33,10 +33,10 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 ## 🆕 Latest Solution
 
-**Problem 197**  
-🧠 Difficulty: Hard  
-🗓️ Posted: june 5, 2025  
-🔗 [View Solution](./197.sql)
+**Problem 912**  
+🧠 Difficulty: medium  
+🗓️ Posted: june 8, 2025  
+🔗 [View Solution](./912.cpp)
 
 ## 📋 Index
 
