@@ -60,6 +60,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 183            | Easy       | SQL             | Depends on DB engine | [183.sql](./183.sql)            |
 | 196            | Easy       | SQL             | Depends on DB engine | [196.sql](./196.sql)            |
 | 197            | Easy       | SQL             | Depends on DB engine | [197.sql](./197.sql)            |
+| 217            | Easy       | Algorithm (C++) | O(n log n)           | [217.cpp](./217.cpp)            |
 | 238            | Medium     | Algorithm (C++) | O(n)                 | [238.cpp](./238.cpp)            |
 | 410            | Hard       | Algorithm (C++) | O(n log n)           | [410.cpp](./410.cpp)            |
 | 511            | Easy       | SQL             | Depends on DB engine | [511.sql](./511.sql)            |
@@ -72,7 +73,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 ## 🧮 Total Problems Solved
 
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-26-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-27-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 
