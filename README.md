@@ -76,7 +76,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 
 ## 🧮 Total Problems Solved
 
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-29-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-23-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 
