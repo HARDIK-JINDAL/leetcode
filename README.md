@@ -59,6 +59,7 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 181            | Easy       | SQL             | Depends on DB engine | [181.sql](./181.sql)            |
 | 182            | Easy       | SQL             | Depends on DB engine | [182.sql](./182.sql)            |
 | 183            | Easy       | SQL             | Depends on DB engine | [183.sql](./183.sql)            |
+| 189            | Medium     | Algorithm (C++) | O(n)                 | [189.cpp](./189.cpp)            |
 | 196            | Easy       | SQL             | Depends on DB engine | [196.sql](./196.sql)            |
 | 197            | Easy       | SQL             | Depends on DB engine | [197.sql](./197.sql)            |
 | 217            | Easy       | Algorithm (C++) | O(n log n)           | [217.cpp](./217.cpp)            |
