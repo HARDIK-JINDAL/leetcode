@@ -72,11 +72,12 @@ Here I share my journey solving algorithmic problems on LeetCode, uploading clea
 | 724            | Easy       | Algorithm (C++) | O(n^2)               | [724.cpp](./724.cpp)            |
 | 852            | Medium     | Algorithm (C++) | O(log n)             | [852.cpp](./852.cpp)            |
 | 912            | Medium     | Algorithm (C++) | O(nlog n)            | [912.cpp](./912.cpp)            |
+| 989            | Easy       | Algorithm (C++) | O(log n)             | [989.cpp](./989.cpp)            |
 
 
 ## 🧮 Total Problems Solved
 
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-30-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-31-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 
